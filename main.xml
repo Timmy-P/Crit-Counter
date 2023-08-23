@@ -1,0 +1,10 @@
+<mod name="Crit Counter">
+	<AssetUpdates id="38497" version="1.1" provider="modworkshop" install_directory = "mods/" version_is_number="true"/>
+	<!--Others-->
+	<Hooks>
+		<hook file="main.lua" source_file="lib/states/missionendstate"/>
+		<hook file="main.lua" source_file="lib/managers/playermanager"/>
+		<hook file="main.lua" source_file="lib/units/enemies/cop/copdamage"/>
+		<hook file="main.lua" source_file="lib/units/beings/player/playerdamage"/>
+	</Hooks>
+</mod>
