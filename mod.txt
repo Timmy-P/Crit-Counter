@@ -28,7 +28,7 @@
 		{
 			"identifier" : "timmy_crit_counter",
 			"host": {
-				"meta": "https://example.com/my_meta.json",
+				"meta": "https://github.com/Timmy-P/Crit-Counter/blob/main/meta.json",
 				"download": "https://github.com/Timmy-P/Crit-Counter/archive/refs/heads/main.zip",
 				"patchnotes": "https://modworkshop.net/mod/38497?tab=changelog"
 			}
