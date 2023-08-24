@@ -2,7 +2,6 @@
     {
         "ident": "timmy_crit_counter",
         "version": "1.2",
-        "download": "https://github.com/Timmy-P/Crit-Counter/archive/refs/heads/main.zip",
-		"patchnotes": "https://modworkshop.net/mod/38497?tab=changelog"
+        "download_url": "https://github.com/Timmy-P/Crit-Counter/archive/refs/heads/main.zip"
     }
 ]

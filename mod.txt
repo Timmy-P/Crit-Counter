@@ -3,7 +3,7 @@
     "description" : "Counts your critical hits and calculates a crit chance at the end of the heist",
     "author" : "Timmy-P",
     "contact" : "Discord: @timmyp7",
-    "version" : "1.2",
+    "version" : "1.1",
 	"blt_version" : 2,
     "hooks" : [
 		{
@@ -28,9 +28,7 @@
 		{
 			"identifier" : "timmy_crit_counter",
 			"host": {
-				"meta": "https://github.com/Timmy-P/Crit-Counter/blob/main/meta.json",
-				"download": "https://github.com/Timmy-P/Crit-Counter/archive/refs/heads/main.zip",
-				"patchnotes": "https://modworkshop.net/mod/38497?tab=changelog"
+				"meta": "https://github.com/Timmy-P/Crit-Counter/blob/main/meta.json"
 			}
 		}
 	]
